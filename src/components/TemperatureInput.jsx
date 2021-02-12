@@ -24,7 +24,7 @@ class TemperatureInput extends Component {
         // console.log(temperature);
         return (
             <div>
-                <h5>Masukkan Suhu {NamaSkala[skala]}</h5>
+                <h5 class="mt-2">Masukkan Suhu {NamaSkala[skala]}</h5>
                 <input className="form-control" value={temperature} onChange={this.handleChange} />
             </div>
         )

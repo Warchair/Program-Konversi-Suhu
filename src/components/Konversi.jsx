@@ -67,7 +67,7 @@ function Converter(temperature, Suhu, skala) {
     }
     const output = Suhu(input, skala);
     const rounded = Math.round(output * 1000) / 1000;
-    return output.toString();
+    return rounded.toString();
 }
 
 

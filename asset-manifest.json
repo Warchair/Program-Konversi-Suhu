@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Program-Konversi-Suhu/static/css/main.f7a03493.chunk.css",
+    "main.js": "/Program-Konversi-Suhu/static/js/main.536ef8c9.chunk.js",
+    "main.js.map": "/Program-Konversi-Suhu/static/js/main.536ef8c9.chunk.js.map",
+    "runtime-main.js": "/Program-Konversi-Suhu/static/js/runtime-main.cc44df3d.js",
+    "runtime-main.js.map": "/Program-Konversi-Suhu/static/js/runtime-main.cc44df3d.js.map",
+    "static/js/2.6397031e.chunk.js": "/Program-Konversi-Suhu/static/js/2.6397031e.chunk.js",
+    "static/js/2.6397031e.chunk.js.map": "/Program-Konversi-Suhu/static/js/2.6397031e.chunk.js.map",
+    "index.html": "/Program-Konversi-Suhu/index.html",
+    "static/css/main.f7a03493.chunk.css.map": "/Program-Konversi-Suhu/static/css/main.f7a03493.chunk.css.map",
+    "static/js/2.6397031e.chunk.js.LICENSE.txt": "/Program-Konversi-Suhu/static/js/2.6397031e.chunk.js.LICENSE.txt",
+    "static/media/kimia.6cee988d.png": "/Program-Konversi-Suhu/static/media/kimia.6cee988d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc44df3d.js",
+    "static/js/2.6397031e.chunk.js",
+    "static/css/main.f7a03493.chunk.css",
+    "static/js/main.536ef8c9.chunk.js"
+  ]
+}
